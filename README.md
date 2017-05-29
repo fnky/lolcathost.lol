@@ -1,3 +1,3 @@
 # lolcathost
 
-A private domain `lolcathost.lol`
+Personal home of `lolcathost.lol`.
